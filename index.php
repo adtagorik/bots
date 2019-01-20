@@ -16,7 +16,7 @@ class ShopBot
     private $token = "766161740:AAEBqdffimq3bblzzhEdxuGlnN4tFVGlKNU";
     private $admin = "CptPavuk"; // Ваш id в ТЕЛГРАМ
     private $helloText = "Здарова,бандиты ТУц-туц \n<b>Чат-Бот-Магазин</b>";
-	private $img_path = "/bots/img"; // путь до директории с картинками
+	private $img_path = "Zalupoypogubammusoram/bots/img"; // путь до директории с картинками
 
     // для соединения с БД
     private $host = 'localhost';
