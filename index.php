@@ -13,8 +13,8 @@ $newShop->init();
 class ShopBot
 {
     // первичные данные
-    private $token = "643938484:AAFm26hZnmvB1j3S00hjMXebftEUcZnI0Ho";
-    private $admin = "@CptPavuk"; // Ваш id в ТЕЛГРАМ
+    private $token = "766161740:AAEBqdffimq3bblzzhEdxuGlnN4tFVGlKNU";
+    private $admin = "CptPavuk"; // Ваш id в ТЕЛГРАМ
     private $helloText = "Здарова,бандиты ТУц-туц \n<b>Чат-Бот-Магазин</b>";
 	private $img_path = "/bots/img"; // путь до директории с картинками
 
