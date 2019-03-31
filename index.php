@@ -20,9 +20,9 @@ class ShopBot
 
     // для соединения с БД
     private $host = 'localhost';
-    private $db = '';
-    private $user = '';
-    private $pass = '';
+    private $db = 'larsen1000_bot';
+    private $user = 'larsen1000_bot';
+    private $pass = 'adtag132';
     private $charset = 'utf8mb4';
     /**
      * @var PDO
